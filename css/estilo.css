@@ -1,0 +1,37 @@
+body {
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #7b1fa2;
+    text-align: center;
+}
+
+fieldset {
+    background-color: #f5f5f5;
+}
+
+footer {
+    background-color: #f3e5f5;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 500px;
+    max-width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #e1bee7;
+}
+
+th,
+td {
+    padding: 8px;
+}
